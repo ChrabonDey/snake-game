@@ -148,3 +148,4 @@ int main() {
     printf("Game Over! Final Score: %d\n", score);
     return 0;
 }
+/*this is a snake which is very funny and exciting game*/
